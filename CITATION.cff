@@ -1,1 +1,6 @@
-
+authors:
+  - family-names: Correia
+    given-names: Renato
+cff-version: 1.2.0
+message: "If you use this software, please cite it using the metadata from this file."
+title: "Algoritmo Genético para o Treinamento de uma Rede Neural Artificial"
