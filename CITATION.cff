@@ -1,6 +1,7 @@
 authors:
-  - family-names: Correia
-    given-names: Renato
+  - family-names: Costa Correia
+    given-names: Renato Junio
 cff-version: 1.2.0
 message: "If you use this software, please cite it using the metadata from this file."
 title: "Algoritmo Genético para o Treinamento de uma Rede Neural Artificial"
+repository-code: "https://github.com/MrJunio/algoritmo_genetico_treinamento_rna"
